@@ -6,7 +6,7 @@ I would hand the model her dialogue — exact words, chosen carefully — and, s
 
 That was one failure among many. Over months of running a single persistent RPG campaign with an LLM as Game Master — one player character, a living world, an economy, a population, save states carried across chats, platforms, and model versions — I ended up running an accidental research program in long-horizon LLM reliability. The failures were funny in a game. They would not be funny in a production agent. This post is the autopsy file: what broke, why it broke, and the behavioral rules that stopped it from breaking again.
 
-The full framework is public and free: **[REPO LINK]**. What follows is why each piece of it exists.
+The full framework is public and free: **(https://github.com/theobliviax/Text-based-rpg-claude)**. What follows is why each piece of it exists.
 
 ## The setup, briefly
 
